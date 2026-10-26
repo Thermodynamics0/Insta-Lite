@@ -1,0 +1,6 @@
+node_modules
+/lab-13/solution.md
+.env
+.env.*
+!.env.example
+.DS_Store
